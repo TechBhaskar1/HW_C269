@@ -1,0 +1,47 @@
+body{
+    background-color: #35155D;
+    text-align: center;
+    }
+
+h1{
+    font-weight: bold;
+    color : #8CABFF;
+    }
+
+h2{
+    color: #8CABFF;
+    font-weight: bold;
+    }
+
+hr{
+    border: 5px solid #8CABFF;
+    border-radius: 5px;
+
+    }
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    align-items: center;
+    color : #8CABFF;
+
+    }
+
+p{
+    color: red;
+    }
+
+input{
+    height: 50px;
+    width: 350px;
+    text-align: center;
+    font-size: 15px;
+
+    }
+
+label{
+    font-weight: bold;
+    text-align: center;
+    }
